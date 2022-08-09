@@ -1,1 +1,1 @@
-## This is just a test project with a plank description
+## This is just a test project with a blank description
