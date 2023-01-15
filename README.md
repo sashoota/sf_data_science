@@ -3,5 +3,5 @@ From the [Skillfactory Data Science course] (https://skillfactory.ru/data-scient
 
 #Projects
 
-* [0. Learning the GIT] (https://github.com/sashoota/sf_data_science)
+* [0. HW] (https://github.com/sashoota/sf_data_science/tree/main/Project%200%20HW)
 * [1. ...]
